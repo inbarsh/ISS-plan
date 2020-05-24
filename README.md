@@ -5,7 +5,3 @@ Run following in your terminal (after changing your present working directory to
 ```
 python iss_plan.py 
 ```
-or
-```
-python3 iss_plan.py
-```
