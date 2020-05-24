@@ -1,0 +1,5 @@
+city,population,max_temperature,min_temperature,update_date,avg_daily_flights_amount
+Beer Sheva,209002,46,0,2020-04-30 09:20:49,6.714285714
+Eilat,51935,48,1,2020-04-30 09:22:22,6.25
+Haifa,283640,45,-4,2020-04-30 09:16:04,7.142857142
+Tel Aviv,451523,46,-2,2020-04-30 09:19:19,7.142857142
